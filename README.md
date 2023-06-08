@@ -1,1 +1,2 @@
-# story-generation-with-gpt-3-and-python
+# story-generation-with-python-and-gpt-3
+The goal of the project is to generate a story automatically using prompts provided by the user. The user provides information about the characters, their backgrounds, and the circumstances of the story, using prompts. The generated story should match the user's description. The project should be able to generate images and audio for each scene of the story and combine them into a complete video.
